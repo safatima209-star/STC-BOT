@@ -1,6 +1,6 @@
 /**
  * STC Bot - A WhatsApp Bot
- * Copyright (c) 2026 Professor
+ * Copyright (c) 2026 STC:The New Gen
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the MIT License.
